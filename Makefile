@@ -1,4 +1,3 @@
-COMMIT_HOOK=.git/hooks/commit-msg
 GOEXE ?= $(shell go env GOEXE)
 
 all: init
